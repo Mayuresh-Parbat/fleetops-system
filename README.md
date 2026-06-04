@@ -105,10 +105,3 @@ http://localhost:8080
 ## ⭐ Contribution
 
 This is a personal project for learning and portfolio development.
-Future contributions and improvements are welcome.
-
----
-
-## ⭐ Star This Repo
-
-If you find this project useful, consider giving it a ⭐ on GitHub!
